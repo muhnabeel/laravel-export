@@ -1,5 +1,5 @@
 {
-    "name": "nabeel/export",
+    "name": "nbl/export",
     "description": "this package use for data export",
     "type": "composer-plugin",
     "license": "MIT",
@@ -14,5 +14,6 @@
             "email": "muhammad.nabeel@cooperativecomputing.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
