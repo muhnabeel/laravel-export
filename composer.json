@@ -1,0 +1,19 @@
+{
+    "name": "nabeel/export",
+    "description": "this package use for data export",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nabeel\\Export\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nabeel",
+            "email": "muhammad.nabeel@cooperativecomputing.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
